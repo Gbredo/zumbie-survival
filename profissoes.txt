@@ -1,0 +1,56 @@
+Piloto de Avião/Helicópteros:
+Requisitos: FIS 4, INT 3 e Condução 3.
+Benefícios: Acesso a aeroportos e +2 em Condução.
+Descrição: Pilotos são altamente treinados para lidar com situações complexas no ar e possuem grande habilidade em pilotagem.
+
+Mecânico:
+Requisitos: FIS 4 e Reparos 2.
+Benefícios: Acesso a oficinas, ferramentas e +3 em Reparos.
+Descrição: Responsáveis por reparos em automóveis, exigem bom condicionamento físico e conhecimento em reparos.
+
+Médico:
+Requisitos: INT 4 e Medicina 3.
+Benefícios: +2 em Medicina.
+Descrição: Essenciais para salvar vidas, exigem responsabilidade, inteligência e capacidade de lidar com diversos problemas médicos. Podem realizar cirurgias, determinar causas de morte e tratar infecções.
+
+Policial:
+Requisitos: FIS 4, Armas de Fogo 1, Condução 1 e Desarmado 1.
+Benefícios: Acesso a armas, veículos, sistemas policiais e +2 nas habilidades da profissão.
+Descrição: Treinados para proteger e servir, utilizando armas de fogo, leis e conhecimento do submundo. Habilidosos motoristas, podem perseguir e interceptar veículos.
+
+Jornalista:
+Requisitos: INT 4, SOC 4, Persuasão 2 e Furtividade 1.
+Benefícios: Acesso a informações, +1 nas habilidades da profissão e +1 de SOC.
+Descrição: Buscam a verdade, são inteligentes, criativos e treinados em persuasão e investigação.
+
+Cozinheiro:
+Requisitos: Cozinha 3.
+Benefícios: +3 em Cozinha e uma fonte de alimentos.
+Descrição: Especialistas em preparar alimentos, uma habilidade valiosa em um mundo em colapso.
+
+Cientista/Pesquisador:
+Requisitos: INT 5 e Ciências 3.
+Benefícios: +2 em Ciências.
+Descrição: Buscam soluções para problemas, dedicando-se à pesquisa e ao desenvolvimento de novas tecnologias.
+
+Soldado:
+Requisitos: FIS 5 e Armas de Fogo 2.
+Benefícios: Não especificado.
+Descrição: Treinados para combate em diferentes terrenos e sobrevivência, comumente especializados em áreas específicas.
+
+Psicólogo:
+Requisitos: INT 3, SOC 3 e Psicologia 2.
+Benefícios: 3 pontos em Psicologia.
+Descrição: Cuidam da saúde mental, tratando traumas e auxiliando pessoas em situações de crise.
+
+Detetive:
+Requisitos: INT 4, FIS 3, SOC 3, Armas de Fogo 1, Persuasão 1, Condução 1 e Furtividade 1.
+Benefícios: +1 de SOC e +1 em todas as habilidades da profissão.
+Descrição: Investigam cenas de crime, utilizando inteligência, habilidades sociais e conhecimentos técnicos.
+
+Mercenário:
+Requisitos: FIS 4, Armas Brancas 2 e Armas de Fogo 2.
+Benefícios: +2 nas habilidades e atributos da profissão.
+Descrição: Assassinos e guarda-costas, dominam o combate e a arte de matar. Possuem um estilo de vida arriscado, frequentemente motivados por um passado difícil.
+
+desempregado / outro

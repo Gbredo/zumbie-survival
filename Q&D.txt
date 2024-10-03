@@ -1,0 +1,144 @@
+                                                                          Ambos
+Superdotado (Mental):
+Descrição: Pessoas com grande inteligência, mas geralmente menos sociáveis.
+Efeitos: +1 INT, -1 SOC.
+
+Psicopata (Mental):
+Descrição: Inteligentes e sociáveis, mas com tendência a ferir os outros. Sentem necessidade de passar em testes de consciência para evitar matar ou prejudicar outros. Possuem consciência invertida, ganhando pontos por ações negativas e perdendo por ações positivas. Psicólogos podem identificá-los.
+Efeitos: +1 INT, +1 SOC.
+
+Frio (Mental):
+Descrição: Possuem dificuldades de interação social, exceto com mortos. Resistentes a traumas psicológicos.
+Efeitos: +1 em todas as habilidades de combate, -1 SOC, imune a trauma e pânico, não afetado por moral/consciência.
+
+Sensível (Mental):
+Descrição: Mais sociáveis, mas propensos a traumas psicológicos.
+Efeitos: +2 SOC, necessidades mentais dobradas (ganham e perdem o dobro de pontos).
+
+Humilde (Social):
+Descrição: Pessoas mais sábias e felizes, porém com menor atributo social.
+Efeitos: -1 SOC, +2 pontos de consciência por boa ação.
+
+Atleta (Físico):
+Descrição: Focados no físico, com menor capacidade intelectual.
+Efeitos: -1 INT, +1 FIS.
+
+Rebelde (Social):
+Descrição: Guiados por ideais, não se submetem a ordens de não-rebeldes.
+Efeitos: +1 Liderança, perdem 1 de moral ao obedecer não-rebeldes.
+
+Soldado (Social):
+Descrição: Disciplinados, seguem ordens sem questionar.
+Efeitos: +1 em qualquer habilidade, não podem desobedecer líderes, perdem 1 de moral se o fizerem.
+
+Kamikaze (Mental):
+Descrição: Sacrificam-se para alcançar objetivos.
+Efeitos: 10 em uma habilidade, procuram situações de risco, perdem a qualidade se sobreviverem a uma situação onde poderiam ter morrido. Realizam missão suicida se a moral atingir o mínimo ou falharem no teste de suicídio.
+
+Honesto (Social):
+Descrição: Inspiram confiança, incapazes de mentir.
+Efeitos: +1 SOC, perdem 2 de consciência ao mentir.
+
+Indeciso (Mental):
+Descrição: Dificuldade em tomar decisões.
+Efeitos: +1 em um atributo ou habilidade aleatório e -1 em outro atributo aleatório, ambos mudando diariamente.
+
+                                                                          Qualidades
+Workaholic (Mental):
+Descrição: Viciados em trabalho, dedicam suas vidas a ele.
+Efeitos: +1 nas habilidades da profissão.
+
+Silver Tongue (Social):
+Descrição: Mestres da persuasão e habilidades sociais.
+Requisitos: SOC mínimo 4.
+Efeitos: +1 SOC.
+
+Discreto (Físico):
+Descrição: Capacidade aprimorada de passar despercebido.
+Efeitos: +1 Furtividade.
+
+Olho de Águia (Físico):
+Descrição: Visão aguçada, permite enxergar a longas distâncias.
+Efeitos: +1 Armas de Fogo, percebem coisas antes dos outros.
+
+Audição Apurada (Físico):
+Descrição: Audição acima da média.
+
+Lutador (Físico):
+Descrição: Especialistas em combate desarmado.
+Efeitos: +1 Desarmado.
+
+Duro de Matar (Alternativo):
+Descrição: Difíceis de matar, sobrevivem a situações letais.
+
+Sortudo (Alternativo):
+Descrição: Sorte acima da média.
+Efeitos: +2 em testes de sorte.
+
+Criativo (Mental):
+Descrição: Mentes criativas, capacidade de ter ideias inovadoras.
+Efeitos: +1 Ciências, +1 Administração.
+
+Rico/Famoso (Alternativo):
+Descrição: Possuem mitos recursos e contatos.
+Corajoso (Mental):
+
+Descrição: Imune a medo, enfrentam o perigo.
+Efeitos: +1 em habilidades de combate, imune a trauma, pânico, traumas e fobias.
+
+Herói (Mental):
+Descrição: Em situações de perigo, tornam-se excepcionalmente capazes.
+Efeitos: Atingem 6 em todos os atributos em situações de perigo.
+
+Barriga de Ferro (Físico):
+Descrição: Imune a doenças transmitidas por alimentos.
+
+Camelo (Físico)
+Descrição: Resistentes à sede.
+Efeitos: Precisam beber água a cada 24 horas.
+
+Metabolismo Lento (Físico):
+Descrição: Necessitam de menos alimento.
+Efeitos: Precisam comer a cada 12 horas.
+
+Popular (Social):
+Descrição: Confortam-se com a atenção das pessoas.
+Efeitos: Ganham +1 de moral para cada pessoa no grupo.
+
+                                                                          Defeitos
+Covarde (Mental):
+Descrição: Incapazes de enfrentar situações perigosas.
+Efeitos: Entram em pânico sob perigo, perdem o dobro de moral pela morte de aliados.
+
+Viciado em Drogas (Mental):
+Descrição: Dependentes de substâncias químicas.
+Efeitos: Precisam consumir a droga a cada 24 horas ou sofrem -1 em todos os atributos e habilidades e perdem 1 de moral por dia sem a droga.
+
+Mentiroso (Social):
+Descrição: Habitualmente mentem, têm dificuldades em inspirar confiança.
+Efeitos: -1 SOC.
+
+Trauma (Mental):
+Descrição: Assombrados por eventos passados.
+Efeitos: Entram em pânico quando expostos ao gatilho do trauma.
+
+Fobia (Mental):
+Descrição: Medo irracional de algo específico.
+Efeitos: Incapacitados pela fobia, requerem teste de INT (com possível auxílio de Psicologia) para superar o medo.
+
+Metabolismo Acelerado (Físico):
+Descrição: Queimam calorias rapidamente.
+Efeitos: Precisam comer a cada 6 horas.
+
+Anfíbio (Físico):
+Descrição: Desidratam facilmente.
+Efeitos: Precisam beber água a cada 3 horas.
+
+Solitário (Social):
+Descrição: Isolam-se, têm dificuldades em interagir.
+Efeitos: -1 SOC, não recebem bônus de líderes ou psicólogos.
+
+
+Regras Adicionais:
+Redundância: Um personagem não pode ter duas qualidades ou dois defeitos do mesmo tipo (Físico, Mental, Social ou Alternativo), impedindo a combinação de vantagens e desvantagens similares.
+Incoerência: Impede a escolha de qualidades que contradigam diretamente um defeito, garantindo coerência na construção do personagem.

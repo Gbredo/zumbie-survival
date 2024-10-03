@@ -1,0 +1,59 @@
+1. Privação de Sono: Causa 1 em todos os atributos do personagem.
+
+2. Fome: Causa -1 em todos os atributos do personagem.
+
+3. Sede: Cousa -1 em todos os atributos do personagem.
+
+4. Pânico: Reduz todos os atributos e habilidades do personagem o O.
+
+5. Ferimento Leve. Não cousa modificadores diretos.
+
+6. Ferimento Grave: Causa -1 no atributo FIS (Fígico) do personagem Além disso, cousa -1 em testes de conbate.
+
+7. Fermento muito Grave: Anula 5 atributo FIS do personagem. Dependendo da localzação, pode desabilitar o uso de membros eu levar à sorte.
+
+9 Álcool: Causa -1 ro atributo INT (Intelectual) de pertonagem
+
+9. Noconho: Anula o efeito de Pânico. Causa -1 no atributo INT.
+
+10. Cocaína: Causa + ne atributo FIS.
+
+11. Heroína: Anula o efeito do Pânico.
+
+12. Morfina: Anula o efeito de Pânico e o efeito negativo de Ferimento Grave.
+
+18. Infecção (Estágio 1): Causa 1 no atributo FIS.
+Infecção (Estágio 2): Cousa -2 no atríbuto FIS, 1 no atributo INT é 1 ro atributo SOC (Social).
+Infecção (Estágio 3): Causa -3 ro atributo FIS, -2 no atributo INT e -2 no atrbuto SOC.
+Infecção (Estágio 4): Leva o pertonagem oo estado de como.
+
+TF. Auta Fone: Cousa -2 em todos es atributos do personagem.
+
+18. Muito Sede: Causa -2 em todos os atributos do personagem.
+
+79. Privação de Sono Grave: Causa -2 em todos os atributos do personagem.
+
+20. Outra Infecção (Estágio 1) Agravo a condição de um ferimento existente.
+
+21. Outra Infecção (Estágio 2): Agrava a condição de um ferimento existente.
+
+22. Outra Infecção (Estágio 3): Causa Necrose.
+
+23. Outra Infecção (Estágio 4) Leva à infecção generalizado « sorte de personagem
+
+24. Dor: Causa 1 em todos os atributos do personagem.
+
+25. Medo: Causa -1 em todos os testes que não envolva a ação de escoçor.
+
+26. Privação de Drogas: Cousa -1 em todos es atributos do personagem
+
+27. Privação Prolongada de Drogas: Leva o personagem a cometer suicídio.
+
+
+29, Adrenalina: Causa +1 no atributo FIS.
+
+30. Passando Mol: Causa -1 no atributo FIS.
+
+31. Perda de Sonque: Causa -1 no atributo FIS.
+
+32. Depressão: Causa -1 em todas os habilidades do personagem.

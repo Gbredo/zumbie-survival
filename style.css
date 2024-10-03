@@ -1,0 +1,395 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: black;
+  font-family: "Medula One", system-ui;
+  color: #ededed;
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  color: #9e9b99;
+  width: 100%;
+  max-width: 1100px;
+  margin: auto;
+  margin-top: 28px;
+}
+
+nav h3 {
+  margin: 4px;
+  font-weight: 400;
+  font-size: 28px;
+}
+
+.main-container {
+  width: 100%;
+  max-width: 1400px;
+  margin: 24px auto;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  margin-bottom: 20px;
+  font-size: 48px;
+}
+
+.section-title {
+  font-family: "Zuume Rough";
+  text-shadow: 2px 4px #a12c2c;
+  color: #dad8d7;
+}
+
+.section-title-big {
+  font-size: 70px;
+}
+
+.ficha-container {
+  background-color: #732421;
+  padding: 24px 20px;
+  display: flex;
+  flex-direction: column;
+  margin: 48px auto;
+}
+
+.ficha-container .section-title {
+  margin-top: -55px;
+  font-size: 60px;
+}
+
+.ficha-content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.column {
+  margin: 0 10px;
+}
+
+.title-cover {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title-cover h1 {
+  font-size: 130px;
+  color: #9d9a97;
+  margin-bottom: -45px;
+}
+
+.title-cover h3 {
+  color: #9d9a97;
+  font-size: 65px;
+  margin-top: -40px;
+  font-weight: 400;
+  text-shadow: 2px 2px #a12c2c;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: space-evenly;
+}
+
+.column-start {
+  width: 60%;
+}
+
+.column-end {
+  flex: 1;
+}
+
+.content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.form-start {
+  display: flex;
+  flex-direction: column;
+  margin: 16px 4px;
+  background-color: #85372e;
+  padding: 18px;
+  border-radius: 20px;
+  opacity: 0.8;
+}
+
+.form-start .content {
+  max-width: 620px;
+}
+
+.form-start h3 {
+  font-family: "Medula One", system-ui;
+  font-weight: 400;
+  font-size: 36px;
+  margin-top: -36px;
+  margin-left: 8px;
+  color: #191919;
+}
+
+.form-start .mid-form-title {
+  margin-top: 24px;
+  text-align: center;
+}
+
+.dados-start {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin-right: 12px;
+}
+
+.label-group {
+  display: flex;
+  flex-direction: column;
+  margin: 8px 4px;
+  color: #cbcbcb;
+}
+
+.horizontal-label-group {
+  display: flex;
+  flex-direction: row;
+  margin: 8px 4px;
+  color: #cbcbcb;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.label-group label,
+.horizontal-label-group label {
+  font-size: 24px;
+  color: #ededed;
+}
+
+.label-group .input-label {
+  margin-bottom: -28px;
+}
+
+.label-group input,
+.label-group textarea {
+  font-size: 24px;
+  background-color: transparent;
+  border: none;
+  border-bottom: 1px solid #cbcbcb;
+  margin-top: 4px;
+  color: #ededed;
+  font-family: "Barlow", sans-serif;
+}
+
+.input-outline {
+  border: 1px solid #cbcbcb !important;
+  height: 56px;
+}
+
+.attribute-dots {
+  display: flex;
+  margin-left: 20px;
+}
+
+.radio-wrapper {
+  position: relative;
+  width: fit-content;
+  height: fit-content;
+  display: inline-block;
+  margin-left: 5px;
+  width: 12px;
+  height: 12px;
+}
+
+.radio-wrapper::after {
+  content: '';
+  pointer-events: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 1px solid #cdcdcd;
+  border-radius: 50%;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.radio-wrapper:has(input:checked)::after {
+  background-image: radial-gradient(#cdcdcd 0 30%, transparent 30% 100%);
+}
+
+.dot {
+  opacity: 0;
+  width: 12px;
+  height: 12px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 10px 12px;
+  height: fit-content;
+}
+
+.skills-table {
+  width: 100%;
+  align-self: end;
+}
+
+.skills-form {
+  width: 100%;
+  padding-left: 42px;
+  align-self: flex-end;
+}
+
+.skills-table th,
+.skills-table td {
+  font-family: "Barlow", sans-serif;
+  width: 100%;
+}
+
+.skills-table th {
+  max-width: 50%;
+}
+
+.skills-table td {
+  max-width: 25%;
+}
+
+th,
+td {
+  border: 2px solid #ededed;
+  padding: 2px 5px;
+  text-align: center;
+}
+
+.attributes-table {
+  max-width: 210px;
+}
+
+.attributes-table tr {
+  height: 35px;
+}
+
+
+.attributes-table th,
+.attributes-table td {
+  width: 50%;
+}
+
+th {
+  font-weight: normal;
+  font-size: 20px;
+}
+
+td input {
+  width: 100%;
+  background-color: transparent;
+  border: none;
+  color: white;
+  font-size: 18px;
+  font-family: "Barlow", sans-serif;
+  text-align: center;
+}
+
+.clothing-form {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.clothing-form label {
+  margin-left: 8px;
+}
+
+input:focus,
+textarea:focus {
+  outline: none;
+}
+
+textarea {
+  width: 100%;
+  height: 100px;
+  resize: vertical;
+  background-color: transparent;
+  border: 1px solid #ededed;
+  color: white;
+  font-size: 18px;
+  font-family: "Barlow", sans-serif;
+  padding: 5px;
+}
+
+
+.image-form {
+  padding: 0;
+  background-image: url("/assets/Uma\ personagem\ feminina\ fictícia\ e\ bonita\,\ criada\ para\ uma\ história\ de\ apocalipse\ zumbi\ em\ tons\ de\ preto\,\ cinza\ e\ vermelho\,\ no\ estilo\ de\ The\ Walking\ Dead.jpg");
+  width: 100%;
+  max-width: 360px;
+  background-size: cover;
+}
+
+.image-form h3 {
+  margin-top: -36px;
+  text-align: center;
+}
+
+.horizontal-form-element {
+  flex: 1;
+  margin: 8px 12px;
+}
+
+.horizontal-form-element .dados-start {
+  width: 100%;
+}
+
+.cover-img {
+  width: 100%;
+  max-width: 780px;
+}
+
+.inventory {
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.inventory p {
+  font-size: 36px;
+  text-align: justify;
+  width: 100%;
+  max-width: 450px;
+  margin: auto;
+}
+
+.inventory button {
+  background-color: #732421;
+  color: #ededed;
+  padding: 14px;
+  width: 100%;
+  max-width: 250px;
+  margin: 28px auto;
+  font-family: "Medula One", system-ui;
+  font-size: 36px;
+  border: none;
+}
+
+.itens-carga p {
+  font-family: "Barlow", sans-serif;
+  font-size: 24px;
+  text-align: justify;
+  max-width: 350px;
+}
+
+@font-face {
+  font-family: "Zuume Rough";
+  src: url('fonts/fontspring-demo-zuumerough-bold.ttf'),
+    url('fonts/fontspring-demo-zuumerough-bolditalic.ttf'),
+    url('fonts/fontspring-demo-zuumerough-italic.ttf'),
+    url('fonts/fontspring-demo-zuumerough-regular.ttf');
+}
